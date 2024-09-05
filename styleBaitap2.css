@@ -1,0 +1,14 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.page{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 20px ;
+}
+.underline{
+    text-decoration: underline blue;
+    color: blue;
+
+}

@@ -1,0 +1,16 @@
+h2{
+    color: yellow;
+    font-family: "Times New Roman", Times, serif;
+}
+#first-p1{
+    color: blue;
+}
+#first-p2{
+    color:pink;
+}
+#first-p3{
+    background-color: blanchedalmond;
+}
+.p4{
+    font-weight: bold;
+}
